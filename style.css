@@ -5,6 +5,10 @@ h1 {
     color: rgb(202, 163, 111);
     font-family: fantasy;
 }
+h3 {
+    color: rgb(202, 163, 111);
+    font-family: Arial;
+}
 p {
     color: burlywood;
     margin-left: 20px;
