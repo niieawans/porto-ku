@@ -1,0 +1,11 @@
+body {
+    background-color: cornsilk;
+}
+h1 {
+    color: rgb(202, 163, 111);
+    font-family: fantasy;
+}
+p {
+    color: burlywood;
+    margin-left: 20px;
+}
